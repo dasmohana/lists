@@ -1,3 +1,6 @@
+# Books: Food Memoirs, Food History, Food-focused Travel
+
+(does not include cookbooks)
 
 | Book                                                   | Writer                      | Region                         | Type   | Read |
 | ------------------------------------------------------ | --------------------------- | ------------------------------ | ------ | ---- |
